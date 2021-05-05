@@ -1,2 +1,3 @@
 # svelte-mobilegods
-testing sveltejs
+1. npm install
+2. npm run dev
