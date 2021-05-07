@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Emblems</title>
+	<title>Items</title>
 </svelte:head>
 
 <h1>News</h1>

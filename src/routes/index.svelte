@@ -1,49 +1,7 @@
-<script>
-	let src = 'ml-logo.jpg';
-</script>
-
-<style>
-	h1, figure {
-		text-align: center;
-		margin: 0 auto;
-	}
-
-	h1 {
-		font-size: 2.8em;
-		text-transform: uppercase;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
-	}
-
-	figure {
-		margin: 0 0 1em 0;
-	}
-
-	img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
-</style>
-
 <svelte:head>
-	<title>Mobile Gods</title>
+	<title>Sapper project template</title>
 </svelte:head>
 
-<div class="box">
-	<figure>
-		<img alt="Success Kid" src="{src}">
-	</figure>
-	
-	<h1>Mobile Gods Pro Builds</h1>
-</div>
-
-
+<h1>Great success!</h1>
 
 

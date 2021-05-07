@@ -1,12 +1,13 @@
 {
-  "name": "TODO",
+  "name": "MobileGods",
   "description": "TODO",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
-    "start": "node __sapper__/build"
+    "start": "node __sapper__/build",
+    "node": "node app.js"
   },
   "dependencies": {
     "compression": "^1.7.1",
@@ -21,7 +22,6 @@
     "@babel/runtime": "^7.0.0",
     "@rollup/plugin-babel": "^5.0.0",
     "@rollup/plugin-commonjs": "^14.0.0",
-    "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^8.0.0",
     "@rollup/plugin-replace": "^2.4.0",
     "@rollup/plugin-url": "^5.0.0",

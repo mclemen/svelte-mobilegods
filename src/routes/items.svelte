@@ -2,6 +2,32 @@
 	<title>Items</title>
 </svelte:head>
 
-<h1>News</h1>
+<script>
+    import { onMount } from "svelte";
+    import Item from "../components/item.svelte";
+    let items;
 
-<p>This is the 'about' page. There's not much here.</p>
+    onMount(async () => {
+    await fetch(`http://localhost:8081/items`)
+      .then(r => r.json())
+      .then(data => {
+        items = data;
+      });
+  })
+
+</script>
+
+{#if items}
+  <table>
+	<tbody>
+		{#each items as item}
+			<tr>
+				<td><Item {item} /></td>
+			</tr>
+		{/each}
+	</tbody>
+</table>
+
+{:else}
+  <p class="loading">loading...</p>
+{/if}
