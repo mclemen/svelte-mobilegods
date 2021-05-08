@@ -1,0 +1,231 @@
+{
+    "api_status": "success",
+    "message": "the API successfully returns the URL-parameters self-information.",
+    "code": 200,
+    "data": [
+        {
+            "name": "demon-hunter-sword",
+            "icon": "https://static.expertwm.com/mlbb/items/demon-hunter-sword.png?w=64"
+        },
+        {
+            "name": "corrosion-scythe",
+            "icon": "https://static.expertwm.com/mlbb/items/corrosion-scythe.png?w=64"
+        },
+        {
+            "name": "golden-staff",
+            "icon": "https://static.expertwm.com/mlbb/items/golden-staff.png?w=64"
+        },
+        {
+            "name": "wind-of-nature",
+            "icon": "https://static.expertwm.com/mlbb/items/wind-of-nature.png?w=64"
+        },
+        {
+            "name": "malefic-roar",
+            "icon": "https://static.expertwm.com/mlbb/items/malefic-roar.png?w=64"
+        },
+        {
+            "name": "haas-s-claws",
+            "icon": "https://static.expertwm.com/mlbb/items/haas-s-claws.png?w=64"
+        },
+        {
+            "name": "berserker-s-fury",
+            "icon": "https://static.expertwm.com/mlbb/items/berserker-s-fury.png?w=64"
+        },
+        {
+            "name": "endless-battle",
+            "icon": "https://static.expertwm.com/mlbb/items/endless-battle.png?w=64"
+        },
+        {
+            "name": "windtalker",
+            "icon": "https://static.expertwm.com/mlbb/items/windtalker.png?w=64"
+        },
+        {
+            "name": "scarlet-phantom",
+            "icon": "https://static.expertwm.com/mlbb/items/scarlet-phantom.png?w=64"
+        },
+        {
+            "name": "blade-of-the-heptaseas",
+            "icon": "https://static.expertwm.com/mlbb/items/blade-of-the-heptaseas.png?w=64"
+        },
+        {
+            "name": "blade-of-despair",
+            "icon": "https://static.expertwm.com/mlbb/items/blade-of-despair.png?w=64"
+        },
+        {
+            "name": "hunter-strike",
+            "icon": "https://static.expertwm.com/mlbb/items/hunter-strike.png?w=64"
+        },
+        {
+            "name": "bloodlust-axe",
+            "icon": "https://static.expertwm.com/mlbb/items/bloodlust-axe.png?w=64"
+        },
+        {
+            "name": "rose-gold-meteor",
+            "icon": "https://static.expertwm.com/mlbb/items/rose-gold-meteor.png?w=64"
+        },
+        {
+            "name": "sea-halberd",
+            "icon": "https://static.expertwm.com/mlbb/items/sea-halberd.png?w=64"
+        },
+        {
+            "name": "enchanted-talisman",
+            "icon": "https://static.expertwm.com/mlbb/items/enchanted-talisman.png?w=64"
+        },
+        {
+            "name": "winter-truncheon",
+            "icon": "https://static.expertwm.com/mlbb/items/winter-truncheon.png?w=64"
+        },
+        {
+            "name": "feather-of-heaven",
+            "icon": "https://static.expertwm.com/mlbb/items/feather-of-heaven.png?w=64"
+        },
+        {
+            "name": "necklace-of-durance",
+            "icon": "https://static.expertwm.com/mlbb/items/necklace-of-durance.png?w=64"
+        },
+        {
+            "name": "divine-glaive",
+            "icon": "https://static.expertwm.com/mlbb/items/divine-glaive.png?w=64"
+        },
+        {
+            "name": "holy-crystal",
+            "icon": "https://static.expertwm.com/mlbb/items/holy-crystal.png?w=64"
+        },
+        {
+            "name": "concentrated-energy",
+            "icon": "https://static.expertwm.com/mlbb/items/concentrated-energy.png?w=64"
+        },
+        {
+            "name": "ice-queen-wand",
+            "icon": "https://static.expertwm.com/mlbb/items/ice-queen-wand.png?w=64"
+        },
+        {
+            "name": "glowing-wand",
+            "icon": "https://static.expertwm.com/mlbb/items/glowing-wand.png?w=64"
+        },
+        {
+            "name": "calamity-reaper",
+            "icon": "https://static.expertwm.com/mlbb/items/calamity-reaper.png?w=64"
+        },
+        {
+            "name": "clock-of-destiny",
+            "icon": "https://static.expertwm.com/mlbb/items/clock-of-destiny.png?w=64"
+        },
+        {
+            "name": "blood-wings",
+            "icon": "https://static.expertwm.com/mlbb/items/blood-wings.png?w=64"
+        },
+        {
+            "name": "fleeting-time",
+            "icon": "https://static.expertwm.com/mlbb/items/fleeting-time.png?w=64"
+        },
+        {
+            "name": "lightning-truncheon",
+            "icon": "https://static.expertwm.com/mlbb/items/lightning-truncheon.png?w=64"
+        },
+        {
+            "name": "genius-wand",
+            "icon": "https://static.expertwm.com/mlbb/items/genius-wand.png?w=64"
+        },
+        {
+            "name": "blade-armor",
+            "icon": "https://static.expertwm.com/mlbb/items/blade-armor.png?w=64"
+        },
+        {
+            "name": "queen-s-wings",
+            "icon": "https://static.expertwm.com/mlbb/items/queen-s-wings.png?w=64"
+        },
+        {
+            "name": "thunder-belt",
+            "icon": "https://static.expertwm.com/mlbb/items/thunder-belt.png?w=64"
+        },
+        {
+            "name": "cursed-helmet",
+            "icon": "https://static.expertwm.com/mlbb/items/cursed-helmet.png?w=64"
+        },
+        {
+            "name": "guardian-helmet",
+            "icon": "https://static.expertwm.com/mlbb/items/guardian-helmet.png?w=64"
+        },
+        {
+            "name": "antique-cuirass",
+            "icon": "https://static.expertwm.com/mlbb/items/antique-cuirass.png?w=64"
+        },
+        {
+            "name": "oracle",
+            "icon": "https://static.expertwm.com/mlbb/items/oracle.png?w=64"
+        },
+        {
+            "name": "athena-s-shield",
+            "icon": "https://static.expertwm.com/mlbb/items/athena-s-shield.png?w=64"
+        },
+        {
+            "name": "dominance-ice",
+            "icon": "https://static.expertwm.com/mlbb/items/dominance-ice.png?w=64"
+        },
+        {
+            "name": "immortality",
+            "icon": "https://static.expertwm.com/mlbb/items/immortality.png?w=64"
+        },
+        {
+            "name": "brute-force-breastplate",
+            "icon": "https://static.expertwm.com/mlbb/items/brute-force-breastplate.png?w=64"
+        },
+        {
+            "name": "twilight-armor",
+            "icon": "https://static.expertwm.com/mlbb/items/twilight-armor.png?w=64"
+        },
+        {
+            "name": "warrior-boots",
+            "icon": "https://static.expertwm.com/mlbb/items/warrior-boots.png?w=64"
+        },
+        {
+            "name": "tough-boots",
+            "icon": "https://static.expertwm.com/mlbb/items/tough-boots.png?w=64"
+        },
+        {
+            "name": "magic-shoes",
+            "icon": "https://static.expertwm.com/mlbb/items/magic-shoes.png?w=64"
+        },
+        {
+            "name": "arcane-boots",
+            "icon": "https://static.expertwm.com/mlbb/items/arcane-boots.png?w=64"
+        },
+        {
+            "name": "swift-boots",
+            "icon": "https://static.expertwm.com/mlbb/items/swift-boots.png?w=64"
+        },
+        {
+            "name": "rapid-boots",
+            "icon": "https://static.expertwm.com/mlbb/items/rapid-boots.png?w=64"
+        },
+        {
+            "name": "demon-shoes",
+            "icon": "https://static.expertwm.com/mlbb/items/demon-shoes.png?w=64"
+        },
+        {
+            "name": "star-shard",
+            "icon": "https://static.expertwm.com/mlbb/items/star-shard.png?w=64"
+        },
+        {
+            "name": "beast-killer",
+            "icon": "https://static.expertwm.com/mlbb/items/beast-killer.png?w=64"
+        },
+        {
+            "name": "raptor-machete",
+            "icon": "https://static.expertwm.com/mlbb/items/raptor-machete.png?w=64"
+        },
+        {
+            "name": "shadow-mask",
+            "icon": "https://static.expertwm.com/mlbb/items/shadow-mask.png?w=64"
+        },
+        {
+            "name": "courage-mask",
+            "icon": "https://static.expertwm.com/mlbb/items/courage-mask.png?w=64"
+        },
+        {
+            "name": "awe-mask",
+            "icon": "https://static.expertwm.com/mlbb/items/awe-mask.png?w=64"
+        }
+    ]
+}

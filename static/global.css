@@ -34,3 +34,13 @@ code {
 		font-size: 16px;
 	}
 }
+
+@media screen and (max-width: 768px) {
+	#menu-toggle:checked + .nav-menu {
+	  display: block;
+	}
+  }
+
+  #sapper {
+	background-color:#150b28 !important;
+  }
